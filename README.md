@@ -10,8 +10,6 @@ I'm a passionate and highly motivated Data Science student with a flair for crea
 💻 My Core Toolkit
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,js,docker,aws,git,mongodb,html,css,java,mysql,postman,Vuejs,node" alt="My Skills"/>
-<br>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsNnlwZ3I2bXBiN3VrNHNuOWZ0emtuNmc5MjFjNzl6OHQyZ2JkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0G18BkChcRRctMZ2/giphy.gif" width="150"/>
 </div>
 
 <p align="center">
