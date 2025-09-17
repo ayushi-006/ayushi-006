@@ -9,27 +9,21 @@ I'm a passionate and highly motivated Data Science student with a flair for crea
 
 💻 My Core Toolkit
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,react,nodejs,docker,aws,git,mongodb,html,css" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=py,js,react,docker,aws,git,mongodb,html,css" alt="My Skills"/>
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm52aWhqcmQwZ2FvMGVjMzI2czN6aGcxazU3bWpobW13MDFkNXpmaSZlcD12MV9pbnRlcm5hbF9naWZfY29uc3VtZXI9dHJhaWwmaGQ9dHJ1ZSZjdD1n/H3C90L0aJkL4dE2j0o/giphy.gif" width="100" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsNnlwZ3I2bXBiN3VrNHNuOWZ0emtuNmc5MjFjNzl6OHQyZ2JkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0G18BkChcRRctMZ2/giphy.gif" />
 </div>
 
 <details>
 <summary><b>More Languages and Frameworks</b></summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,ts,nextjs,express,spring,nginx,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=java,mysql,postman,Vuejs,node" />
 </p>
 </details>
 
-📊 My GitHub Story
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushi-006&show_icons=true&theme=onedark&hide_border=true" alt="Ayushi's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-006&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h5cDJ4Z3J0b2JmODN3a29oenV0dThsNnY4b2t6bmdmNDVubm9weSZlcD12MV9pbnRlcm5hbF9naWZfY29uc3VtZXI9dHJhaWwmaGQ9dHJ1ZSZjdD1n/V1gH2X33kR1V8kE2/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1aWM0dW5hc20xOHQwbjJ1N3FjdTRhazlvbXN6bThvY2YwZmxyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZfK4cXKJTTay1Ava29/giphy.gif" />
 </p>
 
 <p align="center">
