@@ -1,20 +1,11 @@
-✨ Welcome to My Digital Universe! ✨
+✨ hi!
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtuaGJubGp5dnR2cmJxcXd3MjQ2Z2E1YXhxb3BzOXh2eXVuMzJudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VePtB3roynxfLYicuV/giphy.gif" width="150"/>
 <h1>Hello, World! I'm Ayushi 👋</h1>
-<p>Building the future, one line of code at a time.</p>
 </div>
 
 🚀 A Glimpse into My Journey
-I'm a passionate and highly motivated Data Science student with a flair for creative problem-solving. My curiosity drives me to explore new technologies, and I thrive on turning complex ideas into elegant, functional solutions.
-
-🔭 I'm currently working on [Name of Your Current Project].
-
-🌱 I’m always learning and expanding my skills in [e.g., Cloud Computing, AI, or a specific framework].
-
-💬 Ask me about [e.g., Python, React, building APIs, etc.].
-
-📫 How to reach me: [Your Email Address] or connect on [Your LinkedIn Profile Link].
+I'm a passionate and highly motivated Data Science student with a flair for creative problem-solving. My curiosity drives me to explore new technologies. 
 
 💻 My Core Toolkit
 <div align="center">
