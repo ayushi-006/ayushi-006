@@ -23,7 +23,7 @@ I'm a passionate and highly motivated Data Science student with a flair for crea
 </details>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1aWM0dW5hc20xOHQwbjJ1N3FjdTRhazlvbXN6bThvY2YwZmxyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZfK4cXKJTTay1Ava29/giphy.gif" width="150" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J4ODNmc2ZobTVhZTRxZ2EybHczdGN1YjJzdGFudGJ1OW83bDhmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFK8urY6XHj2w/giphy.gif" width="150" />
 </p>
 
 <p align="center">
