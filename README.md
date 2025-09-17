@@ -1,4 +1,3 @@
-✨ hi!
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtuaGJubGp5dnR2cmJxcXd3MjQ2Z2E1YXhxb3BzOXh2eXVuMzJudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VePtB3roynxfLYicuV/giphy.gif" width="150"/>
 <h1>Hello, World! I'm Ayushi 👋</h1>
