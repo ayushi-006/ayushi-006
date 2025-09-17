@@ -1,12 +1,12 @@
 ✨ Welcome to My Digital Universe! ✨
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3dGkydnBwYnF2czZ6ZGN3dGJqMG5nbmQ4dXo2MmFkMGp1b2N6NyZlcD12MV9pbnRlcm5hbF9naWZfY29uc3VtZXI9dHJhaWwmaGQ9dHJ1ZSZjdD1n/L1R1NCuYxK5wYlP1T1/giphy.gif" width="100"/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3dGkydnBwYnF2czZ6ZGN3dGJqMG5nbmQ4dXo2MmFkMGp1b2N6NyZlcD12MV9pbnRlcm5hbF9naWZfY29uc3VtZXI9dHJhaWwmaGQ9dHJ1ZSZjdD1n/L1R1NCuYxK5wYlP1T1/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtuaGJubGp5dnR2cmJxcXd3MjQ2Z2E1YXhxb3BzOXh2eXVuMzJudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VePtB3roynxfLYicuV/giphy.gif)" width="100"/>
 <h1>Hello, World! I'm Ayushi 👋</h1>
 <p>Building the future, one line of code at a time.</p>
 </div>
 
 🚀 A Glimpse into My Journey
-I'm a passionate and highly motivated [Your Job Title or Field, e.g., Full-Stack Developer, DevOps Engineer, etc.] with a flair for creative problem-solving. My curiosity drives me to explore new technologies, and I thrive on turning complex ideas into elegant, functional solutions.
+I'm a passionate and highly motivated Data Science student with a flair for creative problem-solving. My curiosity drives me to explore new technologies, and I thrive on turning complex ideas into elegant, functional solutions.
 
 🔭 I'm currently working on [Name of Your Current Project].
 
