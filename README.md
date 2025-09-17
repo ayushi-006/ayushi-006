@@ -15,11 +15,11 @@ I'm a passionate and highly motivated Data Science student with a flair for crea
 </div>
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J4ODNmc2ZobTVhZTRxZ2EybHczdGN1YjJzdGFudGJ1OW83bDhmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFK8urY6XHj2w/giphy.gif" width="150" />
-</p>
-
-<p align="center">
 <i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
 Thanks for stopping by!
+</p>
+
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J4ODNmc2ZobTVhZTRxZ2EybHczdGN1YjJzdGFudGJ1OW83bDhmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFK8urY6XHj2w/giphy.gif" width="150" />
 </p>
